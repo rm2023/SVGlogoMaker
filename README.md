@@ -26,5 +26,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Mock-Up
+## VIDEO
 
+https://drive.google.com/file/d/1aIi58zWFWXorvit9p0256j9W2GgkOm0M/view
