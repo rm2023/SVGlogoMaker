@@ -27,6 +27,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## instructions
+
+```md
 1.run index.js
 2.select 3 letters
 3.choose text color
@@ -34,7 +36,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 5.choose shape color
 6.open logo.svg 
 
+```
 
 ## VIDEO
-
-https://drive.google.com/file/d/1aIi58zWFWXorvit9p0256j9W2GgkOm0M/view
+* [example](https://drive.google.com/file/d/1aIi58zWFWXorvit9p0256j9W2GgkOm0M/view)
